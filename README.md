@@ -2,7 +2,7 @@
 
 ## 📌 Tentang Aku
 
-Aku adalah seorang mahasiswi Sains Data yang sedang menikmati perjalanan belajarku sebagai maba (mahasiswa baru). Aku tertarik dengan data, cerita di balik angka, dan bagaimana semuanya bisa dikemas menjadi insight yang bermakna. Di luar jam kuliah, aku juga aktif mengajar anak-anak PAUD dan kadang ikut pelatihan coding/data science biar tetap up-to-date.
+Aku adalah seorang mahasiswi Sains Data yang sedang menikmati perjalanan belajarku sebagai maba (mahasiswa baru). Aku tertarik dengan data, cerita di balik angka, dan bagaimana semuanya bisa dikemas menjadi insight yang bermakna. 
 
 ##  Learning Journey
 
